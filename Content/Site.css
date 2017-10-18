@@ -49,3 +49,8 @@ h1.container#trailer {
     text-align:right;
     background-color:rgbA(232, 214, 207, 0.0);
 }
+
+/*/PREVIEW SECTION*/
+.previewThem {
+    margin:auto;
+}
